@@ -7,4 +7,4 @@ You must fulfill the AccessId/AccessKey/AccountID in the example before running.
 
 # Usage
 
-`composer require ""ikecin/aliyun-mns-php-sdk""`
+`composer require "ikecin/aliyun-mns-php-sdk"`
