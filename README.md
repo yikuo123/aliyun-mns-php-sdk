@@ -3,3 +3,8 @@ Please refer to http://www.aliyun.com/product/mns and  https://docs.aliyun.com/?
 
 ## Samples    
 You must fulfill the AccessId/AccessKey/AccountID in the example before running.   
+
+
+# Usage
+
+`composer require ""ikecin/aliyun-mns-php-sdk""`
